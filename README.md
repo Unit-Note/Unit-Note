@@ -1,4 +1,15 @@
-### Hi there 👋
+### Welcome to My Github HomePage.
+```js
+{
+	id: "Unit.Note", "KTNote"
+	aka: [
+		"노트",
+		"유닛노트"
+	]
+};
+``` 
+
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=KTNote&count_private=true&show_icons=true&theme=radical)](https://github.com/KTNote)
 
 <!--
 **Unit-Note/Unit-Note** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
